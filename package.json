@@ -1,0 +1,24 @@
+{
+  "name": "mongonode",
+  "version": "1.0.0",
+  "description": "Node with Express and MongoDb ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anishkumar92/Mongonode.git"
+  },
+  "author": "Ak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anishkumar92/Mongonode/issues"
+  },
+  "homepage": "https://github.com/anishkumar92/Mongonode#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-edge": "^1.0.0",
+    "nodemon": "^1.18.9"
+  }
+}
